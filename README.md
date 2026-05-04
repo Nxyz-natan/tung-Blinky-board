@@ -10,6 +10,3 @@ _Time spent: 2h_
 
 ![Screenshot 2026-05-04 at 1.25.49 PM](https://stasis.hackclub-assets.com/images/1777922754066-n5f25w.png)
 this project was pretty easy just followed the guide the only hard part was finding and figuring out how to do custom shapes in kicad
-
-![image](https://stasis.hackclub-assets.com/images/1777922743217-u5jplr.png)
-![image](https://stasis.hackclub-assets.com/images/1777922754066-n5f25w.png)

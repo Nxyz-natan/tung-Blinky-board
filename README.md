@@ -10,3 +10,6 @@ _Time spent: 2h_
 
 ![Screenshot 2026-05-04 at 1.25.49 PM](https://stasis.hackclub-assets.com/images/1777922754066-n5f25w.png)
 this project was pretty easy just followed the guide the only hard part was finding and figuring out how to do custom shapes in kicad
+final look after soldering 
+<img width="206" height="270" alt="Screenshot 2026-06-03 at 10 07 42 PM" src="https://github.com/user-attachments/assets/c408831c-5b89-4b28-b34f-353e3c585a01" />
+
